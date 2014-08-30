@@ -3,7 +3,7 @@
   Plugin Name: Flipwall
   Plugin URI: http://www.SaschaLabs.net/flipwall/
   Description: Create a backup of your WordPress files and database. Duplicate and move an entire site from one location to another in a few steps. Create a full snapshot of your site at any point in time.
-  Version: 0.6.0
+  Version: 0.1.0
   Author: Sascha Slusche
   Author URI: http://www.SaschaLabs.net
   License: GPLv2 or later

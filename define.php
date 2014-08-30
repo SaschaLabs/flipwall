@@ -1,7 +1,7 @@
 <?php
 //Prevent directly browsing to the file
 if (function_exists('plugin_dir_url')) {
-    define('FLIPWALL_VERSION',        '0.6.0');
+    define('FLIPWALL_VERSION',        '0.1.0');
     define("FLIPWALL_HOMEPAGE",       "http://www.SaschaLabs.net/labs/flipwall");
     define("FLIPWALL_GIVELINK",       "http://www.SaschaLabs.net/partner");
     define("FLIPWALL_HELPLINK",       "http://www.SaschaLabs.net/flipwall-docs");
