@@ -1,0 +1,1728 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Flipwall v0.5.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-01-08 21:27-0700\n"
+"PO-Revision-Date: 2014-07-08 16:31:22+0000\n"
+"Last-Translator: Sascha Slusche <cory@www.SaschaLabs.net>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.6.3\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: flipwall.php:103
+#@ wpflipwall
+msgid "FAQ"
+msgstr "Häufig gestellte Fragen"
+
+#: flipwall.php:104
+#@ wpflipwall
+msgid "Partner"
+msgstr "Partner"
+
+#: flipwall.php:105
+#, fuzzy
+#@ wpflipwall
+msgid "Approved Hosts"
+msgstr "Zertifizierte Hosts"
+
+#: flipwall.php:166
+#: views/packages/controller.php:73
+#: views/packages/controller.php:76
+#: views/packages/list.base.php:239
+#@ wpflipwall
+msgid "Packages"
+msgstr "Archive"
+
+#: flipwall.php:167
+#: views/settings/controller.php:18
+#@ wpflipwall
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: flipwall.php:168
+#: views/tools/controller.php:13
+#@ wpflipwall
+msgid "Tools"
+msgstr "Werkzeuge"
+
+#: flipwall.php:169
+#: views/packages/new3.base.php:124
+#: views/support.php:47
+#@ wpflipwall
+msgid "Support"
+msgstr "Unterstützen"
+
+#: flipwall.php:212
+#@ wpflipwall
+msgid "Manage"
+msgstr "Verwalten"
+
+#: classes/ui.php:108
+#@ default
+msgid "Reserved Flipwall install file(s) still exsist in the root directory.  Please delete these file(s) to avoid possible security issues."
+msgstr ""
+
+#: classes/ui.php:109
+#@ default
+msgid "Remove file(s) now"
+msgstr ""
+
+#: classes/ui.php:110
+#@ default
+msgid "Dismiss this notice"
+msgstr ""
+
+#: views/inc.header.php:10
+#@ wpflipwall
+msgid "By"
+msgstr "von"
+
+#: views/support.php:55
+#@ wpflipwall
+msgid "Created for Admins, Developers and Designers the Flipwall will streamline your workflows and help you quickly clone a WordPress application.  If you run into an issue please read through the"
+msgstr "Erstellt für Administratoren, Entwickler und Designer, welche mit dem Flipwall ihre Arbeitsabläufe optimieren und eine WordPress-Anwendung schnell klonen wollen. Bei Problemen lies bitte die"
+
+#: views/support.php:56
+#@ wpflipwall
+msgid "knowledgebase"
+msgstr "Wissens-Datenbank"
+
+#: views/support.php:72
+#@ wpflipwall
+msgid "Need Help?"
+msgstr "Benötigst du Hilfe?"
+
+#: views/support.php:79
+#@ wpflipwall
+msgid "Knowledgebase"
+msgstr "Wissens-Datenbank"
+
+#: views/support.php:85
+#@ wpflipwall
+msgid "Choose A Section"
+msgstr "Wähle eine Rubrik"
+
+#: views/support.php:86
+#@ wpflipwall
+msgid "Quick Start"
+msgstr "Schnell-Start"
+
+#: views/support.php:87
+#@ wpflipwall
+msgid "User Guide"
+msgstr "Benutzerhandbuch"
+
+#: views/support.php:88
+#@ wpflipwall
+msgid "FAQs"
+msgstr "Häufig gestellte Fragen"
+
+#: views/support.php:89
+#@ wpflipwall
+msgid "Change Log"
+msgstr "Liste der Änderungen"
+
+#: views/support.php:90
+#@ wpflipwall
+msgid "Product Page"
+msgstr "Produkt-Seite"
+
+#: views/support.php:101
+#@ wpflipwall
+msgid "Approved Hosting"
+msgstr "Empfohlene Hosting-Provider"
+
+#: views/support.php:119
+#@ wpflipwall
+msgid "Online Support"
+msgstr "Online Support"
+
+#: views/support.php:138
+#@ wpflipwall
+msgid "Support Flipwall"
+msgstr "Unterstützung Flipwall"
+
+#: views/support.php:145
+#@ wpflipwall
+msgid "Partner with Us"
+msgstr "Unsere Partner"
+
+#: views/support.php:157
+#@ wpflipwall
+msgid "Keep Active and Online"
+msgstr "Bitte unterstütze den Flipwall mit einer Spende"
+
+#: views/support.php:164
+#@ wpflipwall
+msgid "Leave 5 Stars"
+msgstr "Vergebe 5 Sterne"
+
+#: views/support.php:182
+#@ wpflipwall
+msgid "Spread the Word"
+msgstr "Verbreitung des Inhaltes"
+
+#: views/support.php:188
+#@ wpflipwall
+msgid "Duplicate Your WordPress"
+msgstr "Duplizieren dein WordPress"
+
+#: views/support.php:189
+#@ wpflipwall
+msgid "Rapid WordPress Duplication by www.SaschaLabs.net"
+msgstr "Schnelle WordPress-Vervielfältigung von www.SaschaLabs.net"
+
+#: views/packages/controller.php:77
+#@ wpflipwall
+msgid "Create New"
+msgstr "Neu erzeugen"
+
+#: views/packages/list-nodata.php:7
+#@ wpflipwall
+msgid "No Packages Found."
+msgstr "Keine Archive gefunden."
+
+#: views/packages/list-nodata.php:8
+#@ wpflipwall
+msgid "Click the 'Create New' tab to build a package."
+msgstr "Klicke zum Erstellen eines neuen Archivs auf die Registerkarte  'Neu erzeugen'."
+
+#: views/packages/list-nodata.php:13
+#@ wpflipwall
+msgid "Please visit the"
+msgstr "Bitte besuche den"
+
+#: views/packages/list-nodata.php:14
+#@ wpflipwall
+msgid "support section"
+msgstr "Support-Bereich"
+
+#: views/packages/list-nodata.php:15
+#@ wpflipwall
+msgid "for additional help topics"
+msgstr "für weitere Hilfe."
+
+#: views/packages/list-nodata.php:24
+#@ wpflipwall
+msgid "Older packages prior to 0.5.0 are no longer supported in this version."
+msgstr "Ältere Archive (vor 0.5.0) werden in dieser Version nicht mehr unterstützt."
+
+#: views/packages/list-nodata.php:27
+#@ wpflipwall
+msgid "To get an older package please visit the"
+msgstr "Bei älteren Archiven besuche bitte die"
+
+#: views/packages/list-nodata.php:28
+#@ wpflipwall
+msgid "support page"
+msgstr "Support-Seite"
+
+#: views/packages/list-nodata.php:29
+#@ wpflipwall
+msgid "and look for the Change Log link for additional instructions."
+msgstr "und suche im Änderungsprotokoll nach weiteren Anweisungen."
+
+#: views/packages/list-nodata.php:33
+#@ wpflipwall
+msgid "Hide this message"
+msgstr "Diese Nachricht ausblenden"
+
+#: views/packages/list.base.php:64
+#@ wpflipwall
+msgid "Bulk Actions"
+msgstr "Auswahl"
+
+#: views/packages/list.base.php:65
+#@ wpflipwall
+msgid "Delete selected package(s)"
+msgstr "Ausgewählte Archive löschen"
+
+#: views/packages/list.base.php:65
+#@ wpflipwall
+msgid "Delete"
+msgstr "Löschen"
+
+#: views/packages/list.base.php:67
+#@ wpflipwall
+msgid "Apply"
+msgstr "Anwenden"
+
+#: views/packages/list.base.php:74
+#@ wpflipwall
+msgid "Package Logs"
+msgstr "Archiv Logs"
+
+#: views/packages/list.base.php:91
+#@ wpflipwall
+msgid "Select all packages"
+msgstr "Alle Archive auswählen"
+
+#: views/packages/list.base.php:92
+#: views/packages/new3.base.php:95
+#@ wpflipwall
+msgid "Details"
+msgstr "Details"
+
+#: views/packages/list.base.php:93
+#@ wpflipwall
+msgid "Created"
+msgstr "Erstellt"
+
+#: views/packages/list.base.php:94
+#: views/packages/new2.base.php:215
+#: views/packages/new2.base.php:318
+#@ wpflipwall
+msgid "Size"
+msgstr "Größe"
+
+#: views/packages/list.base.php:95
+#: views/packages/new1.inc.form.php:9
+#: views/packages/new3.base.php:62
+#@ wpflipwall
+msgid "Name"
+msgstr "Name"
+
+#: views/packages/list.base.php:97
+#: views/packages/new1.inc.form.php:6
+#: views/settings/general.php:96
+#@ wpflipwall
+msgid "Package"
+msgstr "Archiv"
+
+#: views/packages/list.base.php:128
+#@ wpflipwall
+msgid "(No Notes Taken)"
+msgstr "(Keine Notizen erstellt)"
+
+#: views/packages/list.base.php:146
+#: views/packages/list.base.php:191
+#@ wpflipwall
+msgid "View"
+msgstr "Ansicht"
+
+#: views/packages/list.base.php:151
+#: views/packages/new1.inc.form.php:139
+#: views/packages/new3.base.php:67
+#@ wpflipwall
+msgid "Installer"
+msgstr "Installer"
+
+#: views/packages/list.base.php:154
+#: views/packages/new1.inc.form.php:18
+#: views/packages/new2.base.php:188
+#: views/packages/new3.base.php:71
+#@ wpflipwall
+msgid "Archive"
+msgstr "Archive"
+
+#: views/packages/list.base.php:159
+#: views/packages/list.base.php:204
+#: views/settings/diagnostics.php:122
+#: views/settings/diagnostics.php:141
+#: views/settings/diagnostics.php:181
+#: views/settings/general.php:65
+#@ wpflipwall
+msgid "Version"
+msgstr "Version"
+
+#: views/packages/list.base.php:160
+#: views/packages/list.base.php:205
+#: views/packages/new1.inc.form.php:158
+#: views/settings/diagnostics.php:149
+#@ wpflipwall
+msgid "User"
+msgstr "Benutzer"
+
+#: views/packages/list.base.php:161
+#: views/packages/list.base.php:206
+#@ wpflipwall
+msgid "Hash"
+msgstr "Hash"
+
+#: views/packages/list.base.php:162
+#: views/packages/list.base.php:211
+#: views/packages/new1.inc.form.php:12
+#@ wpflipwall
+msgid "Notes"
+msgstr "Anmerkungen"
+
+#: views/packages/list.base.php:164
+#@ wpflipwall
+msgid "Links"
+msgstr "Links"
+
+#: views/packages/list.base.php:165
+#@ wpflipwall
+msgid "SQL File"
+msgstr "SQL-Datei"
+
+#: views/packages/list.base.php:166
+#: views/packages/list.base.php:217
+#@ wpflipwall
+msgid "View Log"
+msgstr "Log ansehen"
+
+#: views/packages/list.base.php:197
+#@ wpflipwall
+msgid "View Error Details"
+msgstr "Fehler-Details ansehen"
+
+#: views/packages/list.base.php:214
+#@ wpflipwall
+msgid "This package has encountered errors.  Click 'View Log' for more details.  For additional support see the "
+msgstr "Es sind Fehler aufgetreten. Klicke auf 'Log ansehen' für weitere Details. Zusätzliche Unterstützung findest du in der "
+
+#: views/packages/list.base.php:215
+#@ wpflipwall
+msgid "online knowledgebase"
+msgstr "Online-Wissensdatenbank"
+
+#: views/packages/list.base.php:240
+#: views/packages/new2.base.php:212
+#: views/packages/new2.base.php:312
+#@ wpflipwall
+msgid "Total Size"
+msgstr "Gesamte Größe"
+
+#: views/packages/list.base.php:259
+#@ wpflipwall
+msgid "Download Links"
+msgstr "Download Links"
+
+#: views/packages/list.base.php:262
+#@ wpflipwall
+msgid "The following links contain sensitive data.  Please share with caution!"
+msgstr "Die folgenden Links enthalten sensible Daten. Bitte verwende sie mit Vorsicht!"
+
+#: views/packages/list.base.php:268
+#@ wpflipwall
+msgid "The database SQL script is a quick link to your database backup script.  An exact copy is also stored in the package."
+msgstr "Das Datenbank-SQL-Skript ist ein direkter Link zum Datenbank-Backup-Skript. Eine exakte Kopie ist auch im Archiv gespeichert."
+
+#: views/packages/list.base.php:291
+#@ wpflipwall
+msgid "Please select an action from the bulk action drop down menu to perform a specific action."
+msgstr "Bitte wähle eine Aktion aus dem Dropdown-Menü aus."
+
+#: views/packages/list.base.php:299
+#@ wpflipwall
+msgid "Please select at least one package to delete."
+msgstr "Bitte wähle mindestens ein Archiv zum Löschen."
+
+#: views/packages/list.base.php:303
+#@ wpflipwall
+msgid "Are you sure, you want to delete the selected package(s)?"
+msgstr "Ausgewählte Archive wirklich löschen?"
+
+#: views/packages/list.base.php:337
+#@ wpflipwall
+msgid "Package File Links"
+msgstr "Archiv-Datei Links"
+
+#: views/packages/list.base.php:340
+#@ wpflipwall
+msgid "DATABASE"
+msgstr "Datenbank"
+
+#: views/packages/list.base.php:341
+#@ wpflipwall
+msgid "PACKAGE"
+msgstr "Archive"
+
+#: views/packages/list.base.php:342
+#@ wpflipwall
+msgid "INSTALLER"
+msgstr "INSTALLER"
+
+#: views/packages/list.base.php:343
+#@ wpflipwall
+msgid "LOG"
+msgstr "Log"
+
+#: views/packages/new1.base.php:78
+#: views/packages/new2.base.php:57
+#: views/packages/new3.base.php:30
+#@ wpflipwall
+msgid "Setup"
+msgstr "Setup"
+
+#: views/packages/new1.base.php:79
+#: views/packages/new2.base.php:58
+#: views/packages/new3.base.php:31
+#@ wpflipwall
+msgid "Scan"
+msgstr "Scan"
+
+#: views/packages/new1.base.php:80
+#: views/packages/new2.base.php:59
+#: views/packages/new2.base.php:372
+#: views/packages/new3.base.php:32
+#@ wpflipwall
+msgid "Build"
+msgstr "Erstellen"
+
+#: views/packages/new1.base.php:83
+#@ wpflipwall
+msgid "Step 1: Package Setup"
+msgstr "Schritt 1: Archiv-Setup"
+
+#: views/packages/new1.base.php:97
+#@ wpflipwall
+msgid "Requirements:"
+msgstr "Anforderungen:"
+
+#: views/packages/new1.base.php:106
+#@ wpflipwall
+msgid "System requirments must pass for the Flipwall to work properly.  Click each link for details."
+msgstr "Diese System-Anforderungen sind notwendig, damit der Flipwall richtig arbeitet. Klicke auf jeden Link für mehr Details."
+
+#: views/packages/new1.base.php:112
+#@ wpflipwall
+msgid "Permissions"
+msgstr "Berechtigungen"
+
+#: views/packages/new1.base.php:116
+#@ wpflipwall
+msgid "Required Paths"
+msgstr "Erforderliche Pfade"
+
+#: views/packages/new1.base.php:125
+#@ wpflipwall
+msgid "PHP Script Owner"
+msgstr "PHP Skript Besitzer"
+
+#: views/packages/new1.base.php:126
+#@ wpflipwall
+msgid "The above paths should have permissions of 755 for directories and 644 for files. You can temporarily try 777 if you continue to have issues.  Also be sure to check the owner/group settings.  For more details contact your host or server administrator."
+msgstr "Die oben genannten Pfade sollten Berechtigungen von 755 für Verzeichnisse und 644 für Dateien haben. Du kannst bei Problemen vorübergehend 777 versuchen. Überprüfe auch die Eigentümer / Gruppe Einstellungen. Für weitere Informationen wende dich an deinen Provider oder Server-Administrator."
+
+#: views/packages/new1.base.php:128
+#: views/packages/new1.base.php:142
+#: views/packages/new1.base.php:153
+#: views/packages/new1.base.php:167
+#: views/packages/new1.base.php:183
+#: views/packages/new1.base.php:203
+#@ wpflipwall
+msgid "Status Code"
+msgstr "Status Code"
+
+#: views/packages/new1.base.php:135
+#@ wpflipwall
+msgid "Reserved Files"
+msgstr "Reservierte Dateien"
+
+#: views/packages/new1.base.php:139
+#@ wpflipwall
+msgid "A reserved file(s) was found in the WordPress root directory. Reserved file names are installer.php, installer-data.sql and installer-log.txt.  To archive your data correctly please remove any of these files from your WordPress root directory.  Then try creating your package again."
+msgstr "Es wurden reservierte Datei (en) im WordPress Stammverzeichnis gefunden. Reservierte Dateinamen sind installer.php, Installateur-data.sql und Installateur-log.txt. Zum korrekten Archivieren deiner Dateien entferne bitte diese Dateien aus dem WordPress-Stammverzeichnis. Dann versuche erneut, das Archiv zu erstellen."
+
+#: views/packages/new1.base.php:140
+#@ wpflipwall
+msgid "Remove Files Now"
+msgstr "Dateien werden entfernt"
+
+#: views/packages/new1.base.php:149
+#@ wpflipwall
+msgid "Zip Archive Enabled"
+msgstr "Zip-Archiv aktiviert"
+
+#: views/packages/new1.base.php:152
+#@ wpflipwall
+msgid "The ZipArchive extension for PHP is required for compression.  Please contact your hosting provider if you're on a hosted server.  For additional information see our online documentation."
+msgstr "Die Zip-Archiv-Erweiterung für PHP erfordert eine Kompression. Weitere Informationen befinden sich auf unserer Online-Dokumentation."
+
+#: views/packages/new1.base.php:160
+#@ wpflipwall
+msgid "Safe Mode Off"
+msgstr "Safe Mode Off"
+
+#: views/packages/new1.base.php:174
+#@ wpflipwall
+msgid "MySQL Support"
+msgstr "MySQL-Unterstützung"
+
+#: views/packages/new1.base.php:179
+#@ wpflipwall
+msgid "MySQL version"
+msgstr "MySQL-Version"
+
+#: views/packages/new1.base.php:181
+#: views/packages/new2.base.php:129
+#: views/packages/new2.base.php:141
+#@ wpflipwall
+msgid "more info"
+msgstr "mehr Informationen"
+
+#: views/packages/new1.base.php:190
+#@ wpflipwall
+msgid "PHP Support"
+msgstr "PHP-Unterstützung"
+
+#: views/packages/new1.base.php:197
+#@ wpflipwall
+msgid "PHP version"
+msgstr "PHP-Version"
+
+#: views/packages/new1.base.php:198
+#@ wpflipwall
+msgid "Requried Functions"
+msgstr "Erforderliche Funktionen"
+
+#: views/packages/new2.base.php:103
+#: views/packages/new2.base.php:109
+#: views/settings/diagnostics.php:95
+#@ wpflipwall
+msgid "Web Server"
+msgstr "Webserver"
+
+#: views/packages/new1.base.php:211
+#@ wpflipwall
+msgid "For additional online help please visit"
+msgstr "Für weitere Online-Hilfe besuche bitte"
+
+#: views/packages/new1.base.php:214
+#@ wpflipwall
+msgid "Need a hosting provider that is"
+msgstr "Benötigst du einen für Flipwall zertifizierten Hosting-Anbieter?"
+
+#: views/packages/new1.base.php:216
+#@ wpflipwall
+msgid "flipwall approved"
+msgstr "Empfohlene Provider"
+
+#: views/packages/new1.inc.form.php:13
+#@ wpflipwall
+msgid "Purpose of this package"
+msgstr "Zweck dieses Pakets"
+
+#: views/packages/new1.inc.form.php:20
+#@ wpflipwall
+msgid "File filter enabled"
+msgstr "Datei-Filter aktiviert"
+
+#: views/packages/new1.inc.form.php:21
+#@ wpflipwall
+msgid "Database filter enabled"
+msgstr "Datenbank-Filter aktiviert"
+
+#: views/packages/new1.inc.form.php:28
+#@ wpflipwall
+msgid "Format"
+msgstr "Format"
+
+#: views/packages/new1.inc.form.php:37
+#: views/packages/new2.base.php:196
+#@ wpflipwall
+msgid "Files"
+msgstr "Dateien"
+
+#: views/packages/new1.inc.form.php:38
+#: views/packages/new1.inc.form.php:154
+#: views/packages/new2.base.php:296
+#@ wpflipwall
+msgid "Database"
+msgstr "Datenbank"
+
+#: views/packages/new1.inc.form.php:49
+#: views/packages/new1.inc.form.php:84
+#@ wpflipwall
+msgid "Filters"
+msgstr "Filter"
+
+#: views/packages/new1.inc.form.php:57
+#: views/packages/new1.inc.form.php:64
+#@ wpflipwall
+msgid "Separate all filters by semicolon"
+msgstr "Trenne alle Filter durch ein Semikolon"
+
+#: views/packages/new1.inc.form.php:57
+#: views/packages/new2.base.php:266
+#@ wpflipwall
+msgid "Directories"
+msgstr "Verzeichnisse"
+
+#: views/packages/new1.inc.form.php:59
+#@ wpflipwall
+msgid "root path"
+msgstr "Root-Pfad"
+
+#: views/packages/new1.inc.form.php:60
+#@ wpflipwall
+msgid "wp-uploads"
+msgstr "uploads"
+
+#: views/packages/new1.inc.form.php:61
+#: views/packages/new1.inc.form.php:68
+#@ wpflipwall
+msgid "(clear)"
+msgstr "(Löschen)"
+
+#: views/packages/new1.inc.form.php:64
+#@ wpflipwall
+msgid "File extensions"
+msgstr "Datei-Erweiterungen"
+
+#: views/packages/new1.inc.form.php:66
+#@ wpflipwall
+msgid "media"
+msgstr "Medien"
+
+#: views/packages/new1.inc.form.php:67
+#@ wpflipwall
+msgid "archive"
+msgstr "Archive"
+
+#: views/packages/new1.inc.form.php:73
+#@ wpflipwall
+msgid "The directory paths and extensions above will be be excluded from the archive file if enabled is checked."
+msgstr "Diese Verzeichnispfade und Erweiterungen werden aus der Archivdatei ausgeschlossen."
+
+#: views/packages/new1.inc.form.php:74
+#@ wpflipwall
+msgid "Use the full path for directories and semicolons to separate all items."
+msgstr "Verwende den vollständigen Pfad für Verzeichnisse und Semikolons, um alle Elemente zu trennen."
+
+#: views/packages/new1.inc.form.php:125
+#@ wpflipwall
+msgid "Checked tables will not be added to the database script.  Excluding certain tables can possibly cause your site or plugins to not work correctly after install!"
+msgstr "Ausgewählte Tabellen werden dem Archiv nicht hinzugefügt. Ohne diese Tabellen funktionieren möglicherweise die Website oder Plugins nach der Installation nicht korrekt!"
+
+#: views/packages/new1.inc.form.php:144
+#@ default
+msgid "STEP 1 - INPUTS"
+msgstr ""
+
+#: views/packages/new1.inc.form.php:147
+#@ wpflipwall
+msgid "MySQL Server"
+msgstr "MySQL-Server"
+
+#: views/packages/new1.inc.form.php:150
+#@ wpflipwall
+msgid "Host"
+msgstr "Host"
+
+#: views/packages/new1.inc.form.php:162
+#@ wpflipwall
+msgid "Advanced Options"
+msgstr "Erweiterte Optionen"
+
+#: views/packages/new1.inc.form.php:168
+#@ wpflipwall
+msgid "SSL"
+msgstr "SSL"
+
+#: views/packages/new1.inc.form.php:171
+#@ wpflipwall
+msgid "Enforce on Admin"
+msgstr "Auf Admin durchsetzen"
+
+#: views/packages/new1.inc.form.php:175
+#@ wpflipwall
+msgid "Enforce on Logins"
+msgstr "Erzwingen auf Logins"
+
+#: views/packages/new1.inc.form.php:179
+#@ wpflipwall
+msgid "Cache"
+msgstr "Cache"
+
+#: views/packages/new1.inc.form.php:182
+#@ wpflipwall
+msgid "Keep Enabled"
+msgstr "Halten Aktiviert"
+
+#: views/packages/new1.inc.form.php:186
+#@ wpflipwall
+msgid "Keep Home Path"
+msgstr "Halten Startseite Pfad"
+
+#: views/packages/new1.inc.form.php:194
+#@ default
+msgid "STEP 2 - INPUTS"
+msgstr ""
+
+#: views/packages/new1.inc.form.php:198
+#@ wpflipwall
+msgid "New URL"
+msgstr "Neue URL"
+
+#: views/packages/new1.inc.form.php:205
+#@ wpflipwall
+msgid "The installer can have these fields pre-filled at install time."
+msgstr "Das Installationsprogramm kann diese Felder bereits vor der Installation ausgefüllt haben."
+
+#: views/packages/new1.inc.form.php:205
+#@ wpflipwall
+msgid "All values are optional."
+msgstr "Alle Werte sind optional."
+
+#: views/packages/new1.inc.form.php:215
+#@ wpflipwall
+msgid "Next"
+msgstr "Weiter"
+
+#: views/packages/new2.base.php:62
+#@ wpflipwall
+msgid "Step 2: System Scan"
+msgstr "Schritt 2: System Scan"
+
+#: views/packages/new2.base.php:70
+#@ wpflipwall
+msgid "Scanning Site"
+msgstr "Scan Seite"
+
+#: views/packages/new2.base.php:72
+#: views/packages/new3.base.php:45
+#@ wpflipwall
+msgid "Please Wait..."
+msgstr "Bitte warten..."
+
+#: views/packages/new2.base.php:78
+#@ wpflipwall
+msgid "Scan Complete"
+msgstr "Scan vollständig"
+
+#: views/packages/new2.base.php:80
+#@ wpflipwall
+msgid "Scan checks are not required to pass, however they could cause issues on some systems."
+msgstr "Scan-Checks sind nicht unbedingt erforderlich, können jedoch auf einigen Systemen Probleme verursachen."
+
+#: views/packages/new2.base.php:90
+#@ wpflipwall
+msgid "Server"
+msgstr "Server"
+
+#: views/packages/new2.base.php:92
+#: views/settings/controller.php:22
+#@ wpflipwall
+msgid "Diagnostics"
+msgstr "Diagnose"
+
+#: views/packages/new2.base.php:126
+#@ wpflipwall
+msgid "Open Base Dir"
+msgstr "Open Base Dir"
+
+#: views/packages/new2.base.php:176
+#@ wpflipwall
+msgid "Cache Path"
+msgstr "Cache-Pfad"
+
+#: views/packages/new2.base.php:201
+#: views/packages/new2.base.php:301
+#@ wpflipwall
+msgid "Enabled"
+msgstr "Aktiviert"
+
+#: views/packages/new2.base.php:216
+#@ wpflipwall
+msgid "File Count"
+msgstr "Dateianzahl"
+
+#: views/packages/new2.base.php:217
+#@ wpflipwall
+msgid "Directory Count"
+msgstr "Verzeichnisanzahl"
+
+#: views/packages/new2.base.php:228
+#@ wpflipwall
+msgid "Invalid Names"
+msgstr "Ungültige Namen"
+
+#: views/packages/new2.base.php:243
+#@ wpflipwall
+msgid "Large Files"
+msgstr "Große Dateien"
+
+#: views/packages/new2.base.php:316
+#@ wpflipwall
+msgid "Tables"
+msgstr "Tabellen"
+
+#: views/packages/new2.base.php:317
+#@ wpflipwall
+msgid "Records"
+msgstr "Aufzeichnungen"
+
+#: views/packages/new2.base.php:320
+#@ wpflipwall
+msgid "repair and optimization"
+msgstr "Reparatur und Optimierung"
+
+#: views/packages/new2.base.php:333
+#@ wpflipwall
+msgid "Table Details"
+msgstr "Tabellen-Details"
+
+#: views/packages/new2.base.php:344
+#@ wpflipwall
+msgid "Name:"
+msgstr "Name:"
+
+#: views/packages/new2.base.php:345
+#@ wpflipwall
+msgid "Host:"
+msgstr "Host:"
+
+#: views/packages/new2.base.php:346
+#@ wpflipwall
+msgid "Build Mode:"
+msgstr "Erstellungs-Modus:"
+
+#: views/packages/new2.base.php:357
+#@ wpflipwall
+msgid "Scan Error"
+msgstr "Scan Fehler"
+
+#: views/packages/new2.base.php:358
+#@ wpflipwall
+msgid "Please try again!"
+msgstr "Bitte nochmals versuchen!"
+
+#: views/packages/new2.base.php:360
+#: views/packages/new3.base.php:98
+#@ wpflipwall
+msgid "Server Status:"
+msgstr "Server Status:"
+
+#: views/packages/new2.base.php:363
+#: views/packages/new3.base.php:102
+#@ wpflipwall
+msgid "Error Message:"
+msgstr "Fehler-Meldung:"
+
+#: views/packages/new2.base.php:370
+#@ wpflipwall
+msgid "Back"
+msgstr "Zurück"
+
+#: views/packages/new2.base.php:371
+#@ wpflipwall
+msgid "Rescan"
+msgstr "Erneuter Scan"
+
+#: views/packages/new2.base.php:447
+#@ wpflipwall
+msgid "Unable to report on any tables"
+msgstr "Kein Bericht über die Tabellen"
+
+#: views/packages/new2.base.php:456
+#@ wpflipwall
+msgid "Unable to report on database stats"
+msgstr "Kein Bericht zum Datenbank-Status"
+
+#: views/packages/new2.base.php:471
+#@ wpflipwall
+msgid "No name length issues."
+msgstr "Keine lange oder ungültige Namen."
+
+#: views/packages/new2.base.php:474
+#: views/packages/new2.base.php:482
+#@ wpflipwall
+msgid "FILE"
+msgstr "Datei"
+
+#: views/packages/new2.base.php:479
+#@ wpflipwall
+msgid "No large files found."
+msgstr "Keine großen Dateien gefunden."
+
+#: views/packages/new3.base.php:35
+#@ wpflipwall
+msgid "Step 3: Build Package"
+msgstr "Schritt 3: Archiv erstellen"
+
+#: views/packages/new3.base.php:43
+#@ wpflipwall
+msgid "Building Package"
+msgstr "Archiv erstellen"
+
+#: views/packages/new3.base.php:46
+#@ wpflipwall
+msgid "Keep this window open during the build process."
+msgstr "Lass dieses Fenster während der Archiv-Erstellung geöffnet."
+
+#: views/packages/new3.base.php:47
+#@ wpflipwall
+msgid "This may take several minutes."
+msgstr "Dies kann einige Minuten dauern."
+
+#: views/packages/new3.base.php:51
+#@ wpflipwall
+msgid "Build Status"
+msgstr "Erstellungs-Status"
+
+#: views/packages/new3.base.php:58
+#@ wpflipwall
+msgid "Package Completed"
+msgstr "Archiv komplett"
+
+#: views/packages/new3.base.php:63
+#@ wpflipwall
+msgid "Process Time"
+msgstr "Verarbeitungszeit"
+
+#: views/packages/new3.base.php:77
+#@ wpflipwall
+msgid "All Packages"
+msgstr "Alle Archive"
+
+#: views/packages/new3.base.php:93
+#@ wpflipwall
+msgid "Try Again"
+msgstr "Nochmals versuchen"
+
+#: views/packages/new3.base.php:123
+#@ wpflipwall
+msgid "Package Log"
+msgstr "Archiv Log"
+
+#: views/settings/controller.php:21
+#: views/settings/diagnostics.php:84
+#@ wpflipwall
+msgid "General"
+msgstr "Allgemein"
+
+#: views/settings/diagnostics.php:18
+#: views/settings/diagnostics.php:19
+#@ wpflipwall
+msgid "unknow"
+msgstr "unbekannt"
+
+#: views/settings/diagnostics.php:36
+#@ wpflipwall
+msgid "Plugin settings reset."
+msgstr "Plugin-Einstellungen zurücksetzen."
+
+#: views/settings/diagnostics.php:37
+#@ wpflipwall
+msgid "View state settings reset."
+msgstr "Statuseinstellungen zurücksetzen."
+
+#: views/settings/diagnostics.php:38
+#@ wpflipwall
+msgid "Active package settings reset."
+msgstr "Aktive Archiv-Einstellungen zurücksetzen."
+
+#: views/settings/diagnostics.php:41
+#: views/tools/cleanup.php:12
+#@ wpflipwall
+msgid "Legacy data removed."
+msgstr "Daten entfernt."
+
+#: views/settings/diagnostics.php:78
+#@ wpflipwall
+msgid "Server Settings"
+msgstr "Server-Einstellungen"
+
+#: views/settings/diagnostics.php:87
+#@ wpflipwall
+msgid "Flipwall Version"
+msgstr "Flipwall-Version"
+
+#: views/settings/diagnostics.php:91
+#@ wpflipwall
+msgid "Operating System"
+msgstr "Betriebs-System"
+
+#: views/settings/diagnostics.php:99
+#@ wpflipwall
+msgid "APC Enabled"
+msgstr "APC Aktiviert"
+
+#: views/settings/diagnostics.php:103
+#@ wpflipwall
+msgid "Root Path"
+msgstr "Root-Pfad"
+
+#: views/settings/diagnostics.php:111
+#@ wpflipwall
+msgid "Plugins Path"
+msgstr "Plugin-Pfad"
+
+#: views/settings/diagnostics.php:115
+#@ wpflipwall
+msgid "Loaded PHP INI"
+msgstr "Geladene PHP-INI"
+
+#: views/settings/diagnostics.php:126
+#@ wpflipwall
+msgid "Langugage"
+msgstr "Sprache"
+
+#: views/settings/diagnostics.php:130
+#: views/settings/diagnostics.php:185
+#@ wpflipwall
+msgid "Charset"
+msgstr "Zeichensatz"
+
+#: views/settings/diagnostics.php:134
+#@ wpflipwall
+msgid "Memory Limit "
+msgstr "Speicher-Limit "
+
+#: views/settings/diagnostics.php:135
+#@ wpflipwall
+msgid "Max"
+msgstr "Max"
+
+#: views/settings/diagnostics.php:153
+#@ wpflipwall
+msgid "Safe Mode"
+msgstr "Safe Mode"
+
+#: views/settings/diagnostics.php:157
+#@ wpflipwall
+msgid "On"
+msgstr "An"
+
+#: views/settings/diagnostics.php:157
+#@ wpflipwall
+msgid "Off"
+msgstr "Aus"
+
+#: views/settings/diagnostics.php:162
+#@ wpflipwall
+msgid "Memory Limit"
+msgstr "Speicher-Limit"
+
+#: views/settings/diagnostics.php:166
+#@ wpflipwall
+msgid "Memory In Use"
+msgstr "Verwendeter Arbeitsspeicher"
+
+#: views/packages/new2.base.php:133
+#: views/settings/diagnostics.php:170
+#@ wpflipwall
+msgid "Max Execution Time"
+msgstr "Maximale Ausführungs-Zeit"
+
+#: views/settings/diagnostics.php:174
+#@ wpflipwall
+msgid "Shell Exec"
+msgstr "Shell Exec"
+
+#: views/settings/diagnostics.php:175
+#@ wpflipwall
+msgid "Is Supported"
+msgstr "Wird unterstützt"
+
+#: views/settings/diagnostics.php:175
+#@ wpflipwall
+msgid "Not Supported"
+msgstr "Nicht unterstützt"
+
+#: views/settings/diagnostics.php:189
+#@ wpflipwall
+msgid "Wait Timeout"
+msgstr "Wartezeitsperre"
+
+#: views/settings/diagnostics.php:193
+#@ wpflipwall
+msgid "Max Allowed Packets"
+msgstr "Maximal erlaubte Pakete"
+
+#: views/settings/diagnostics.php:197
+#@ wpflipwall
+msgid "msyqldump Path"
+msgstr "msyqldump Pfad"
+
+#: views/settings/diagnostics.php:201
+#@ wpflipwall
+msgid "Server Disk"
+msgstr "Server-Festplatte"
+
+#: views/settings/diagnostics.php:204
+#@ hyper-cache
+msgid "Free space"
+msgstr ""
+
+#: views/settings/diagnostics.php:207
+#@ wpflipwall
+msgid "Note: This value is the physical servers hard-drive allocation."
+msgstr "Hinweis: Dieser Wert ist die physische Server-Festplatte-Verteilung."
+
+#: views/settings/diagnostics.php:208
+#@ wpflipwall
+msgid "On shared hosts check your control panel for the 'TRUE' disk space quota value."
+msgstr "Überprüfe auf freigegebenen Hosts deines Control Panels für den 'TRUE' Disk Space Quote Wert."
+
+#: views/settings/diagnostics.php:224
+#@ wpflipwall
+msgid "Stored Data"
+msgstr "Gespeicherte Daten"
+
+#: views/settings/diagnostics.php:229
+#@ wpflipwall
+msgid "Options Values"
+msgstr "Options Werte"
+
+#: views/settings/diagnostics.php:262
+#@ wpflipwall
+msgid "PHP Information"
+msgstr "PHP-Information"
+
+#: views/settings/diagnostics.php:281
+#@ wpflipwall
+msgid "Delete this option value"
+msgstr "Lösche den optionalen Wert"
+
+#: views/settings/general.php:6
+#@ wpflipwall
+msgid "Settings Saved"
+msgstr "Einstellungen gespeichert"
+
+#: views/settings/general.php:72
+#@ wpflipwall
+msgid "Delete Plugin Settings"
+msgstr "Plugin-Einstellungen löschen"
+
+#: views/settings/general.php:117
+#@ wpflipwall
+msgid "This server does not have shell_exec configured to run."
+msgstr "Dieser Server ist nicht zur Ausführung von shell_exec konfiguriert."
+
+#: views/settings/general.php:118
+#@ wpflipwall
+msgid "Please contact the server administrator to enable this feature."
+msgstr "Bitte kontaktiere den Server-Administrator, um diese Funktion zu aktivieren."
+
+#: views/settings/general.php:123
+#@ wpflipwall
+msgid "Use mysqldump"
+msgstr "Benutze mysqldump"
+
+#: views/settings/general.php:124
+#@ wpflipwall
+msgid "recommended for large databases"
+msgstr "für große Datenbanken empfohlen"
+
+#: views/settings/general.php:129
+#@ wpflipwall
+msgid "Working Path:"
+msgstr "Arbeits-Pfad"
+
+#: views/settings/general.php:140
+#@ wpflipwall
+msgid "Add Custom Path:"
+msgstr "Benutzer-Pfad hinzufügen"
+
+#: views/settings/general.php:144
+#@ wpflipwall
+msgid "This is the path to your mysqldump program."
+msgstr "Das ist der Pfad zu deinem mysqldump-Programm."
+
+#: views/settings/general.php:153
+#@ wpflipwall
+msgid "Package Debug"
+msgstr "Fehlerbeseitigung Archiv"
+
+#: views/settings/general.php:156
+#@ wpflipwall
+msgid "Show Package Debug Status in Packages Screen"
+msgstr "Zeige Fehlerstatus des Archives in der Anzeige"
+
+#: views/settings/general.php:164
+#@ wpflipwall
+msgid "Save Settings"
+msgstr "Einstellungen speichern"
+
+#: views/tools/cleanup.php:8
+#@ wpflipwall
+msgid "Installer File Cleanup Ran."
+msgstr "Installations-Dateien gelöscht."
+
+#: views/tools/cleanup.php:65
+#@ wpflipwall
+msgid "If the installer files did not successfully get removed, then you WILL need to remove them manually"
+msgstr "Wenn die Installationsdateien nicht vollständig erfolgreich entfernt wurden, dann müssen sie manuell gelöscht werden"
+
+#: views/tools/cleanup.php:66
+#@ wpflipwall
+msgid "Please remove all installer files to avoid leaving open security issues on your server"
+msgstr "Bitte entferne alle Installationsdateien aus Sicherheitsgründen von deinem Server"
+
+#: views/tools/cleanup.php:74
+#@ wpflipwall
+msgid "Data Cleanup"
+msgstr "Daten gelöscht"
+
+#: views/tools/cleanup.php:77
+#@ wpflipwall
+msgid "Delete Reserved Files"
+msgstr "Lösche reservierte Dateien"
+
+#: views/tools/cleanup.php:78
+#@ wpflipwall
+msgid "Removes all installer files from a previous install"
+msgstr "Entferne alle Installations-Dateien der früheren Installation."
+
+#: views/tools/cleanup.php:81
+#@ wpflipwall
+msgid "Delete Legacy Data"
+msgstr "Lösche übernommene Daten"
+
+#: views/tools/cleanup.php:82
+#@ wpflipwall
+msgid "Removes all legacy data and settings prior to version"
+msgstr "Entfernt alle übernommenen Daten und Einstellungen vor Version"
+
+#: views/tools/cleanup.php:99
+#, php-format
+#@ wpflipwall
+msgid "This action will remove all legacy settings prior to version %1$s.  "
+msgstr "Diese Aktion wird alle alten Einstellungen vor Version %1$s entfernen. "
+
+#: views/tools/cleanup.php:100
+#@ wpflipwall
+msgid "Legacy settings are only needed if you plan to migrate back to an older version of this plugin."
+msgstr "Frühere Einstellungen werden nur benötigt, wenn du zu einer älteren Version des Plugins zurückgehst."
+
+#: views/tools/controller.php:16
+#@ wpflipwall
+msgid "Logging"
+msgstr "Logging"
+
+#: views/tools/controller.php:17
+#@ wpflipwall
+msgid "Cleanup"
+msgstr "Löschen"
+
+#: views/tools/logging.php:140
+#@ wpflipwall
+msgid "Log file not found or unreadable"
+msgstr "Log-Datei nicht gefunden oder nicht lesbar"
+
+#: views/tools/logging.php:144
+#@ wpflipwall
+msgid "Reasons for log file not showing"
+msgstr "Die Gründe für die Log-Datei werden nicht angezeigt"
+
+#: views/tools/logging.php:145
+#@ wpflipwall
+msgid "The web server does not support returning .log file extentions"
+msgstr "Der Webserver unterstützt keine .log-Datei-Erweiterungen"
+
+#: views/tools/logging.php:146
+#@ wpflipwall
+msgid "The snapshots directory does not have the correct permissions to write files.  Try setting the permissions to 755"
+msgstr "In das Verzeichnis wp-snapshots kann nicht geschrieben werden. Bitte setze die Berechtigung auf 755"
+
+#: views/tools/logging.php:147
+#@ wpflipwall
+msgid "The process that PHP runs under does not have enough permissions to create files.  Please contact your hosting provider for more details"
+msgstr "Der Prozess hat nicht genügend Berechtigungen, um Dateien zu erstellen. Bitte kontaktiere deinen Hosting-Provider für weitere Informationen"
+
+#: views/tools/logging.php:156
+#: views/tools/logging.php:161
+#@ wpflipwall
+msgid "Options"
+msgstr "Optionen"
+
+#: views/tools/logging.php:163
+#@ wpflipwall
+msgid "Refresh"
+msgstr "Neu laden"
+
+#: views/tools/logging.php:168
+#@ wpflipwall
+msgid "Auto Refresh"
+msgstr "Automatisch neu laden"
+
+#: views/tools/logging.php:174
+#@ wpflipwall
+msgid "Last 20 Logs"
+msgstr "Letzte 20 Logs"
+
+#: views/packages/list.base.php:209
+#@ wpflipwall
+msgid "Unrecoverable Error! Please remove this package."
+msgstr "Nicht behebbarer Fehler! Bitte lösche das Paket."
+
+#: views/packages/new2.base.php:120
+#@ wpflipwall
+msgid "PHP Settings"
+msgstr "PHP-Einstellungen"
+
+#: views/packages/new2.base.php:219
+#, php-format
+#@ wpflipwall
+msgid "Total size reprents all files minus any filters that have been setup.  The current thresholds that trigger warnings are %1$s for the entire site and %2$s for large files."
+msgstr "Gesamtgröße aller Dateien abzüglich aller Filter durch das Setup. Die aktuellen Grenzwerte, die Warnungen auslösen, sind %1$s für die gesamte Website und %2$s für große Dateien."
+
+#: views/packages/new2.base.php:247
+#, php-format
+#@ wpflipwall
+msgid "Large files such as movies or other backuped data can cause issues with timeouts.  The current check for large files is %1$s per file.  If your having issues creating a package consider excluding these files with the files filter and manually moving them to your new location."
+msgstr "Große Dateien wie Filme oder andere Archiv-Daten können zu Problemen mit Timeouts führen. Die aktuelle Prüfung für große Dateien ist %1$s pro Datei. Wenn es zu Problemen beim Erstellen des Archives kommt, bitte diese Dateien mit dem Filter ausschließen und manuell auf die neue Position verschieben."
+
+#: views/packages/new2.base.php:321
+#, php-format
+#@ wpflipwall
+msgid "Total size and row count for all database tables are approximate values.  The thresholds that trigger warnings are %1$s and %2$s records.  Large databases take time to process and can cause issues with server timeout and memory settings.  Running a %3$s on your database can also help improve the overall size and performance.  If your server supports shell_exec and mysqldump you can try to enable this option from the settings menu."
+msgstr "Gesamtgröße und Zeilenanzahl für alle Datenbank-Tabellen sind Richtwerte. Die Schwellenwerte, die Warnungen auslösen sind %1$s und %2$s Datensätze. Große Datenbanken benötigen mehr Zeit bei der Verarbeitung und können zu Problemen mit Server-Timeout und Speichereinstellungen führen. Ausführen einer %3$s auf der Datenbank können auch dazu beitragen, die Gesamtgröße und Leistung zu verbessern. Wenn der Server shell_exec und mysqldump unterstützt, kannst du versuchen, diese Option aus dem Menü Einstellungen zu aktivieren."
+
+#: views/packages/new3.base.php:88
+#@ wpflipwall
+msgid "Build Interrupt"
+msgstr "Erstellung unterbrochen"
+
+#: views/packages/new3.base.php:89
+#@ wpflipwall
+msgid "The current build has experienced an issue."
+msgstr "Die aktuelle Version hat ein Problem."
+
+#: views/packages/new3.base.php:91
+#@ wpflipwall
+msgid "Please try the process again. If the problem persists please visit the support page."
+msgstr "Bitte versuche den Vorgang erneut. Wenn das Problem weiterhin besteht, besuche bitte die Support-Seite."
+
+#: views/packages/new3.base.php:109
+#@ wpflipwall
+msgid "Notice"
+msgstr "Anmerkung"
+
+#: views/packages/new3.base.php:112
+#@ default
+msgid "Build Folder:"
+msgstr ""
+
+#: views/packages/new3.base.php:114
+#@ wpflipwall
+msgid "Some servers close connections quickly; yet the build can continue to run in the background. To validate if a build is still running; open the 'tmp' folder above and see if the archive file is growing in size. If it is not then your server has strict timeout constraints.  Please visit the support page for additional resources."
+msgstr "Einige Server schließen die Verbindungen schnell, doch die Erstellung kann auch weiterhin im Hintergrund laufen. Um zu prüfen ob derProzess noch läuft, öffnen den 'tmp'-Ordner um zu sehen, ob die Archivdatei in der Größe wächst. Wenn nicht, hat der Server strenge Beschränkungen im Timeout. Bitte besuche die Support-Seite für weitere Lösungen."
+
+#: views/settings/diagnostics.php:107
+#@ wpflipwall
+msgid "ABSPATH"
+msgstr "ABSPATH"
+
+#: views/settings/general.php:61
+#@ wpflipwall
+msgid "Plugin"
+msgstr "Plugin"
+
+#: views/settings/general.php:100
+#@ wpflipwall
+msgid "Archive Flush"
+msgstr ""
+
+#: views/settings/general.php:103
+#@ wpflipwall
+msgid "Attempt Network Keep Alive"
+msgstr "Dadurch wird versucht, eine Netzwerkverbindung für große Archive zu etablieren"
+
+#: views/settings/general.php:104
+#@ wpflipwall
+msgid "recommended only for large archives"
+msgstr "nur empfohlen für große Archive"
+
+#: views/settings/general.php:106
+#@ wpflipwall
+msgid "This will attempt to keep a network connection established for large archives."
+msgstr "Dadurch wird versucht, eine Netzwerkverbindung für große Archive zu etablieren."
+
+#: views/settings/general.php:111
+#@ wpflipwall
+msgid "Database Build"
+msgstr "Datenbank erstellen"
+
+#: views/settings/general.php:135
+#@ wpflipwall
+msgid "Mysqldump was not found at its default location or the location provided.  Please enter a path to a valid location where mysqldump can run.  If the problem persist contact your server administrator."
+msgstr "Mysqldump wurde nicht an der Standardposition gefunden. Bitte gib den Pfad zu einem gültigen Ort ein, an dem mysqldump ausgeführt werden kann. Sollte das Problem bestehen bleiben, kontaktiere den Server-Administrator."
+
+#: views/support.php:57
+#@ wpflipwall
+msgid "in detail for many of the quick and common answers."
+msgstr "im Detail für viele und schnelle Antworten."
+
+#: views/support.php:83
+#@ wpflipwall
+msgid "Complete online documentation!"
+msgstr "Komplette Online-Dokumentation!"
+
+#: views/support.php:105
+#@ wpflipwall
+msgid "Servers that work with Flipwall!"
+msgstr "Hier funktioniert der Flipwall!"
+
+#: views/support.php:108
+#@ wpflipwall
+msgid "Get Hosting!"
+msgstr "Hosting-Angebote"
+
+#: views/support.php:123
+#@ wpflipwall
+msgid "Work with IT Profressionals!"
+msgstr "Unterstützung durch IT-Experten!"
+
+#: views/support.php:127
+#@ wpflipwall
+msgid "Get Help!"
+msgstr "Hilfe bekommen"
+
+#: views/packages/new1.base.php:11
+#@ wpflipwall
+msgid "Package settings have been reset."
+msgstr "Archiveinstellungen wurden zurückgesetzt."
+
+#: views/packages/new1.inc.form.php:10
+#@ wpflipwall
+msgid "Create a new default name"
+msgstr "Erstelle einen neuen Standardnamen"
+
+#: views/packages/new1.inc.form.php:214
+#@ wpflipwall
+msgid "Reset"
+msgstr "Zurücksetzen"
+
+#: views/packages/new1.inc.form.php:227
+#@ wpflipwall
+msgid "This will reset all of the current package settings.  Would you like to continue?"
+msgstr "Dies wird alle aktuellen Archiveinstellungen zurückzusetzen. Möchtest Du fortfahren?"
+
+#: views/packages/new2.base.php:234
+#: views/packages/new2.base.php:249
+#@ wpflipwall
+msgid "Show Paths"
+msgstr "Zeige Pfade"
+
+#: views/tools/logging.php:142
+#@ wpflipwall
+msgid "Try to create a package, since no log files were found in the snapshots directory with the extension *.log"
+msgstr "Versuche ein Archiv zu erstellen, da keine Log-Dateien im Snapshots-Verzeichnis mit der Endung *. Log gefunden wurden"
+
+#: views/packages/list.base.php:344
+#@ wpflipwall
+msgid "REPORT"
+msgstr "Bericht"
+
+#: views/packages/new1.inc.form.php:91
+#@ wpflipwall
+msgid "checked tables are excluded"
+msgstr "Markierte Tabellen sind ausgeschlossen"
+
+#: views/packages/new1.inc.form.php:96
+#@ wpflipwall
+msgid "Include All"
+msgstr "Alle einschliessen"
+
+#: views/packages/new1.inc.form.php:97
+#@ wpflipwall
+msgid "Exclude All"
+msgstr "Alle ausschliessen"
+
+#: views/packages/new2.base.php:81
+#@ wpflipwall
+msgid "Process Time:"
+msgstr "Verarbeitungs-Dauer"
+
+#: views/packages/new2.base.php:94
+#@ wpflipwall
+msgid "Report"
+msgstr "Bericht"
+
+#: views/packages/new2.base.php:128
+#@ wpflipwall
+msgid "The Flipwall may have issues when [open_basedir] is enabled. Please work with your server administrator to disable this value in the php.ini file if you’re having issues building a package."
+msgstr "Der Flipwall kann Probleme haben, wenn [open_basedir] aktiviert ist. Bitte frage den Server-Administrator, ob dieser Wert in der php.ini-Datei deaktiviert werden kann."
+
+#: views/packages/new2.base.php:137
+#, php-format
+#@ wpflipwall
+msgid "The Flipwall will have issues when the [max_execution_time] value in the php.ini is low.  Timeouts effect how long a process is allowed to run.  The recommended timeout is \"%1$s\" seconds. An attempt is made to override this value if the server allows it.  Please work with your server administrator to make sure there are no restrictions for how long a PHP process is allowed to run."
+msgstr "Der Flipwall wird Probleme haben, wenn der Wert [max_execution_time] in der php.ini ist gering. Der Timeout-Wert gibt an, wie lange ein Prozess ausgeführt werden darf. Die empfohlene Timeout ist \"%1$s\" Sekunden. Es wird versucht, diesen Wert zu überschreiben, wenn es der Server erlaubt. Bitte frage den Server-Administrator nach den Einschränkungen für den PHP-Prozess."
+
+#: views/packages/new2.base.php:140
+#@ wpflipwall
+msgid "Note: Timeouts can also be set at the web server layer, so if the PHP max timeout passes and you still see a build interrupt messages, then your web server could be killing the process.   If you are limited on processing time, consider using the database or file filters to shrink the size of your overall package.   However use caution as excluding the wrong resources can cause your install to not work properly."
+msgstr "Hinweis: Timeouts können auch am Web-Server eingestellt werden, so dass bei PHP-Timeout der Prozess abgebrochen wird. Wenn die Verarbeitungszeit begrenzt ist, nutze Datenbank-oder Dateifilter, um die Größe des Gesamtpakets schrumpfen. Bitte beachte, dass falsche Einstellungen dazu führen können, dass die Anwendung nicht mehr richtig funktioniert."
+
+#: views/packages/new2.base.php:232
+#@ wpflipwall
+msgid "Invalid file or folder names can cause issues when extracting an archive across different environments.  Invalid file names consist of lengths over 250 characters and illegal characters that may not work on all operating systems such as * ? > < : / \\ |  .  It is recommended to remove or filter these files before building the archive or else you might have issues at install time."
+msgstr "Ungültige Datei-oder Ordnernamen können bei einigen Umgebungen zu Problemen führen. Ungültige Dateinamen bestehen aus Längen über 250 Zeichen und illegalen Zeichen, die nicht auf allen Betriebssystemen wie * ? > < : / \\ |  arbeiten können. Es wird empfohlen, diese Dateien vor dem Erstellen des Archivs zu entfernen oder durch Filtereinstellungen auszublenden."
+
+#: views/tools/cleanup.php:16
+#@ wpflipwall
+msgid "Build cache removed."
+msgstr "Cache-Dateien entfernt"
+
+#: views/tools/cleanup.php:85
+#@ wpflipwall
+msgid "Clear Build Cache"
+msgstr "Cache löschen"
+
+#: views/tools/cleanup.php:86
+#@ wpflipwall
+msgid "Removes all build data from:"
+msgstr "Entferne alle Daten von:"
+
+#: views/tools/cleanup.php:112
+#@ wpflipwall
+msgid "This process will remove all build cache files.  Be sure no packages are currently building or else they will be cancelled."
+msgstr "Dieser Vorgang wird alle erstellten Cache-Dateien entfernen. Bitte stelle sicher, dass derzeit keine neuen Cache-Dateien erstellt werden."
+
+#: views/packages/new1.base.php:165
+#@ wpflipwall
+msgid "Safe Mode should be set safe_mode=Off in you php.ini file. On hosted servers you may have to request this setting be turned off. Please note that Safe Mode is deprecated as of PHP 5.3.0"
+msgstr "Safe Mode sollte auf safe_mode = Off in der php.ini-Datei eingestellt werden. Auf gehosteten Servern kann die Einstellung ggf. durch den Provider deaktiviert werden. Bitte beachte, dass Safe Mode seit PHP 5.3.0 veraltet ist"
+
+#: views/packages/new1.base.php:180
+#@ wpflipwall
+msgid "MySQL version 5.0+ or better is required. If the MySQL version is valid and this requirement fails then the mysqli extension (note the trailing 'i') is not installed.  Contact your server administrator and request that mysqli extension and MySQL Server 5.0+ be installed. Please note in future version support for other databases and extensions will be added."
+msgstr "MySQL Version 5.0 + oder höher ist erforderlich. Wenn der MySQL-Version gültig ist und diese Anforderung fehlschlägt, dann ist die mysqli-Erweiterung (beachte die Erweiterung 'i') ​​nicht installiert. Kontaktiere den Server-Administrator und bitte darum, dass die mysqli-Erweiterung und MySQL Server 5.0 + installiert werden. Bitte beachte, dass die Datenbanken und Erweiterungen für künftige Versionen hinzugefügt werden."
+
+#: views/packages/new1.base.php:201
+#@ wpflipwall
+msgid "PHP versions 5.2.17+ or higher is required. Please note that in versioning logic a value such as 5.2.9 is less than 5.2.17.  Please contact your server administrator to upgrade to a stable and secure version of PHP"
+msgstr "PHP-Versionen 5.2.17 + oder höher ist erforderlich. Bitte beachte, dass in der Versionierungs-Logik ein Wert wie 5.2.9 weniger als 5.2.17 ist. Bitte kontaktiere den Server-Administrator für ein Update, um eine stabile und sichere Version von PHP zu erhalten"
+
+#: views/packages/new2.base.php:111
+#@ wpflipwall
+msgid "The Flipwall currently works with these web servers:"
+msgstr "Der Flipwall arbeitet derzeit mit diesen Web-Server:"
+
+#: views/packages/list.base.php:79
+#@ wpflipwall
+msgid "Help Support Flipwall"
+msgstr "Flipwall-Hilfe"
+
+#: views/packages/list.base.php:169
+#@ wpflipwall
+msgid "Open Scan Report"
+msgstr "Scan-Bericht öffnen"
+
+#: views/packages/list.base.php:170
+#@ wpflipwall
+msgid "View Package Object"
+msgstr "Paket ansehen"
+
+#: views/packages/new1.inc.form.php:53
+#@ wpflipwall
+msgid "Enable File Filters"
+msgstr "Dateifilter aktivieren"
+
+#: views/packages/new1.inc.form.php:90
+#@ wpflipwall
+msgid "Enable Table Filters"
+msgstr "Tabellen-Filter aktivieren"
+
+#: views/packages/new2.base.php:151
+#@ wpflipwall
+msgid "WordPress Settings"
+msgstr "WordPress-Einstellungen"
+
+#: views/packages/new2.base.php:157
+#@ wpflipwall
+msgid "WordPress Version"
+msgstr "WordPress-Version"
+
+#: views/packages/new2.base.php:159
+#@ wpflipwall
+msgid "It is recommended to have a version of WordPress that is greater that "
+msgstr "Es wird empfohlen, eine höhere Version von Wordpress zu nutzen "
+
+#: views/packages/new2.base.php:165
+#@ wpflipwall
+msgid "Found"
+msgstr "Gefunden"
+
+#: views/packages/new2.base.php:165
+#@ wpflipwall
+msgid "Missing"
+msgstr "Vermisst"
+
+#: views/packages/new2.base.php:167
+#@ wpflipwall
+msgid "Core Files"
+msgstr "Core-Dateien"
+
+#: views/packages/new2.base.php:169
+#@ wpflipwall
+msgid "If the scanner is unable to locate the wp-config.php file in the root directory, then you will need to manually copy it to its new location."
+msgstr "Wenn der Scanner die Datei wp-config.php im Root-Verzeichnis nicht findet, muss sie manuell an die neue Position manuell kopiert werden."
+
+#: views/packages/new2.base.php:177
+#@ wpflipwall
+msgid "Cached data will lead to issues at install time and increases your archive size. It is recommended to empty your cache directory at build time. Use caution when removing data from the cache directory. If you have a cache plugin review the documentation for how to empty it; simply removing files might cause errors on your site."
+msgstr "Cache-Daten werden zu Probleme bei der Installation führen und erhöhen die Archivgröße. Es wird empfohlen, das Cache-Verzeichnis bei der Erstellung zu leeren. Vorsicht beim Entfernen von Daten aus dem Cache-Verzeichnis. Beachte die Dokumentation des Cache-Plugins zum entleeren. Das einfache Entfernen von Dateien kann möglicherweise zu Fehlern auf der Website führen."
+
+#: views/packages/new2.base.php:178
+#@ wpflipwall
+msgid "The cache size minimum threshold is currently set at "
+msgstr "Die minimale Cache-Schwelle ist derzeit festgelegt auf "
+
+#: views/packages/new2.base.php:260
+#@ wpflipwall
+msgid "View Filters"
+msgstr "Filter anzeigen"
+
+#: views/packages/new2.base.php:263
+#@ wpflipwall
+msgid "Below is a list of the directories and file extension that will be excluded from the archive."
+msgstr "Unten ist eine Liste der Verzeichnisse und Dateierweiterung, die aus dem Archiv ausgeschlossen werden."
+
+#: views/packages/new2.base.php:271
+#@ wpflipwall
+msgid "No directory filters have been set."
+msgstr "Es sind keine Verzeichnisfilter eingestellt."
+
+#: views/packages/new2.base.php:276
+#@ wpflipwall
+msgid "File Extensions"
+msgstr "Datei-Erweiterungen"
+
+#: views/packages/new2.base.php:281
+#@ wpflipwall
+msgid "No file extension filters have been set."
+msgstr "Keine Dateierweiterungs-Filter gesetzt."
+
+#: views/settings/general.php:69
+#@ wpflipwall
+msgid "Uninstall"
+msgstr "Deinstallieren"
+
+#: views/settings/general.php:75
+#@ wpflipwall
+msgid "Delete Entire Storage Directory"
+msgstr "Speicher-Verzeichnisse vollständig löschen"
+
+#: views/settings/general.php:80
+#@ wpflipwall
+msgid "Storage"
+msgstr "Speicher"
+
+#: views/settings/general.php:82
+#@ wpflipwall
+msgid "Full Path"
+msgstr "Vollständiger Pfad"
+
+#: views/settings/general.php:85
+#@ wpflipwall
+msgid "Disable .htaccess File In Storage Directory"
+msgstr ".htaccess-Datei im Speicher-Verzeichnis deaktivieren"
+
+#: views/settings/general.php:87
+#@ wpflipwall
+msgid "Disable if issues occur when downloading installer/archive files."
+msgstr "Deaktivieren, wenn beim Download von Installer / Archivdateien Probleme auftreten."
+
+#: views/support.php:170
+#@ wpflipwall
+msgid "Check out other great resources"
+msgstr "Weitere gute Angebote ansehen"
+
