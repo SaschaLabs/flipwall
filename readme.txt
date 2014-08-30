@@ -4,7 +4,11 @@ Donate link: www.SaschaLabs.net/partner
 Tags: backup, restore, move, migrate, localhost, synchronize, duplicate, clone, automate, niche  
 Requires at least: 3.8
 Tested up to: 3.9.1
+<<<<<<< HEAD
 Stable tag: 0.1.0
+=======
+Stable tag: 0.5.6
+>>>>>>> origin/master
 License: GPLv2
 
 Duplicate, clone, backup, move and transfer an entire site from one location to another.
